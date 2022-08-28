@@ -1,5 +1,5 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
+title:               Isator
+url:                 https://isatorapp.github.io
 baseurl:             ""
 
 markdown:            kramdown
@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Arun Sivadasan
+  url:               teavanist.github.io
+  email:             arunsivadasan@gmail.com
 
 plugins:
   - jekyll-coffeescript
